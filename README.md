@@ -3,7 +3,7 @@ This a currency converter App built a free Currency API <b> Dependency injection
 # Tech stack used in the project :
 
 * Dagger Hilt
-  
+
 * MVVM
 
 * Repository pattern
