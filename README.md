@@ -14,9 +14,3 @@ This a currency converter App built a free Currency API <b> Dependency injection
 
 * View Binding pattern
 
----
----
-                                    HOW TO USE IT?
----
-
-
